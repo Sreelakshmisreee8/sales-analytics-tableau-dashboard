@@ -10,6 +10,7 @@ This project analyzes sales performance using Tableau.
 - Category-wise sales analysis
 - Top performing products
 - Profit analysis by region
-
+## Dashboard Preview
+![Dashboard](dashboard_preview.png)
 ## Dashboard
 (Screenshot added in repository)
